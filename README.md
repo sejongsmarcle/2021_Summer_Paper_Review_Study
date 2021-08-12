@@ -1,5 +1,8 @@
 # 2021_Summer_Paper_Review_Study
 ![image](https://user-images.githubusercontent.com/44921488/124939633-3c5c1e00-e044-11eb-81d5-fdea5008b5fc.png)
+## Members
+O Team : [심동현](https://github.com/Sim-Dong-Hyun), [신우정](https://github.com/Hannah-SWJ), [김찬영](https://github.com/kochanha), [신도현](https://github.com/dotterShin)  
+Y Team : [오승현](https://github.com/IHateCommunistParty), [곽수지](https://github.com/suzyrhkr), [송혜원](https://github.com/lovelyysong)
 ## 스터디 계획
 #### 스터디 기간 21.07.08 ~ 21.08.26 총 8회차
 |주차|날짜|논문|발표 자료|발표자|
